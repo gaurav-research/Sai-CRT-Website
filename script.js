@@ -3,8 +3,8 @@
    Update batch details here + in the HTML spots marked "BATCH INFO: edit here"
    ============================================= */
 const SAICRT = {
-  whatsapp: "917224893818",       // digits only, with country code
-  batchDate: "21 October 2026",
+  whatsapp: "918319953369",       // digits only, with country code
+  batchDate: "2 November 2026",
   // Paste your Google Form link between the quotes to use a form instead of WhatsApp.
   // Leave empty ("") to send registrations straight to WhatsApp.
   googleFormUrl: ""
